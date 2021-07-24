@@ -37,6 +37,6 @@ The dataset contains a lot of images of cats and dogs. Our aim is to make the mo
   
 ## Demo
 
-![til](https://raw.githubusercontent.com/Aditya664/Implement-ml-model-in-android-app/main/ezgif.com-gif-maker.gif)
+[![Alt text for your video](http://img.youtube.com/vi/474ZkwwTRfc/0.jpg)](https://www.youtube.com/watch?v=474ZkwwTRfc)
 
 ## Thanks
